@@ -5,6 +5,7 @@
 The Currency Exchange AI Agent is a Python-based intelligent assistant that provides real-time currency exchange information using the OpenRouter API and an external exchange rate service. The application is designed to answer only currency-related queries by utilizing AI function calling and live data retrieval instead of generating estimated responses.
 
 The project demonstrates the implementation of AI agents, tool calling, prompt engineering, conversation memory, and API integration in Python.
+<img width="1077" height="755" alt="image" src="https://github.com/user-attachments/assets/5ecdcf44-6733-47b8-b851-c117fb011ab1" />
 
 ---
 
